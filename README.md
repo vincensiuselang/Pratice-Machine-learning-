@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vincensiuselang/Practice-Machine-learning-/main/assets/banner.png" alt="Machine Learning Journey Banner" width="100%">
-</p>
-
 <!-- Title -->
 <h1 align="center">🚀 My Machine Learning Journey with Scikit-Learn</h1>
 <p align="center">
