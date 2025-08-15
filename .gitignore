@@ -1,0 +1,107 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.python-version
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ML specific
+*.pkl
+*.h5
+*.model
+*.joblib
+*.pickle
+model_checkpoints/
+logs/
+tensorboard_logs/
+catboost_info/
+
+# History files
+.history/
+.bash_history
+.python_history
+history.txt
+*_history*
+
+# Large data files
+*.csv
+*.xlsx
+*.xls
+*.db
+*.sqlite
+*.hdf5
+*.h5
+*.parquet
+*.feather
+*.json
+*.npy
+*.npz
+
+# Temporary files
+tmp/
+temp/
+.DS_Store
